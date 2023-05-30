@@ -1,2 +1,5 @@
-readme first
-kkkkk
+#include <stdio.h>
+#include <stdlib>
+int main(){
+  
+}
